@@ -1,0 +1,20 @@
+{
+  "model_used": "RandomForest",
+  "accuracy": 0.6753,
+  "precision": 0.6335,
+  "recall": 0.3984,
+  "f1": 0.4892,
+  "roc_auc": 0.6771,
+  "confusion_matrix": [
+    [
+      341,
+      59
+    ],
+    [
+      154,
+      102
+    ]
+  ],
+  "threshold": 0.51,
+  "unsafe_catch_rate": 0.8525
+}
